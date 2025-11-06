@@ -1,0 +1,19 @@
+# stack
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.2.14. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+
+
+This is a Templating Project to build fullstack dev server with Bun + React + Shadcn + Tanstack Query + Tailiwind
